@@ -1,10 +1,10 @@
 import './App.css';
-import DisplayRawData from './components/DisplayRawText';
+import DisplayParsedData from './components/DisplayParsedData';
 
 function App() {
   return (
     <div className="App">
-      <DisplayRawData/>
+      <DisplayParsedData/>
     </div>
   );
 }
