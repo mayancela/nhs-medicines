@@ -1,0 +1,132 @@
+[
+  {
+    "Aciclovir (Zovirax)": {
+      "info": [
+        {
+          "@type": "HealthTopicContent",
+          "url": "https://api.service.nhs.uk/nhs-website-content/medicines/aciclovir/who-can-and-cannot-take-or-use-aciclovir/#who-its-for",
+          "description": "Most adults and children can take aciclovir tablets and liquid and use the cream or ointment. Always check first, as it's not suitable for everyone.",
+          "headline": "Who can take or use aciclovir"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "url": "https://api.service.nhs.uk/nhs-website-content/medicines/aciclovir/how-and-when-to-take-or-use-aciclovir/#how-its-used-previously-dosage-and-administration",
+          "description": "Aciclovir comes as tablets, liquid, cream, cold sore cream and eye ointment that you use 2 to 5 times a day. Follow the instructions in the packet.",
+          "headline": "Dosage for aciclovir tablets and liquid"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "url": "https://api.service.nhs.uk/nhs-website-content/medicines/aciclovir/side-effects-of-aciclovir/#side-effects",
+          "description": "Side effects of aciclovir include headaches, feeling dizzy and feeling or being sick. More serious side effects can happen in rare cases.",
+          "headline": "Common side effects (tablets and liquid)"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "url": "https://api.service.nhs.uk/nhs-website-content/medicines/aciclovir/pregnancy-breastfeeding-and-fertility-while-taking-or-using-aciclovir/#pregnancy-and-breastfeeding",
+          "description": "Aciclovir can be taken or used during pregnancy and while breastfeeding. Always check with a pharmacist or doctor.",
+          "headline": "Aciclovir and pregnancy"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "url": "https://api.service.nhs.uk/nhs-website-content/medicines/aciclovir/taking-or-using-aciclovir-with-other-medicines-and-herbal-supplements/#interactions",
+          "description": "Taking or using aciclovir with other medicines, herbal remedies, vitamins or supplements can cause problems. Check with a pharmacist or doctor.",
+          "headline": "Cautions with other medicines"
+        }
+      ],
+      "headline": "Aciclovir (Zovirax)",
+      "url": "https://api.service.nhs.uk/nhs-website-content/medicines/aciclovir/"
+    }
+  },
+  {
+    "Acrivastine": {
+      "info": [
+        {
+          "@type": "HealthTopicContent",
+          "url": "https://api.service.nhs.uk/nhs-website-content/medicines/acrivastine/#overview",
+          "headline": "About acrivastine",
+          "description": "Acrivastine is an antihistamine and treats allergy symptoms such as hay fever. It's available on prescription, or in smaller packs from pharmacies."
+        },
+        {
+          "@type": "HealthTopicContent",
+          "url": "https://api.service.nhs.uk/nhs-website-content/medicines/acrivastine/#who-its-for",
+          "headline": "Who can and cannot take acrivastine",
+          "description": "Most adults under 65 and children aged 12 and over can take acrivastine. But always check before taking it, as it's not suitable for everyone."
+        },
+        {
+          "@type": "HealthTopicContent",
+          "url": "https://api.service.nhs.uk/nhs-website-content/medicines/acrivastine/#how-its-used-previously-dosage-and-administration",
+          "headline": "How and when to take acrivastine",
+          "description": "Acrivastine comes as capsules that you usually take 3 times a day. Follow the instructions that come with your medicine."
+        },
+        {
+          "@type": "HealthTopicContent",
+          "url": "https://api.service.nhs.uk/nhs-website-content/medicines/acrivastine/#side-effects",
+          "headline": "Side effects",
+          "description": "Common side effects of acrivastine include feeling sleepy, a dry mouth and feeling dizzy. More serious side effects can happen in rare cases."
+        },
+        {
+          "@type": "HealthTopicContent",
+          "url": "https://api.service.nhs.uk/nhs-website-content/medicines/acrivastine/#support",
+          "headline": "How to cope with side effects of acrivastine",
+          "description": "There are things you can do to help cope with the side effects of acrivastine. For example, sugar-free gum or sweets can help with a dry mouth."
+        },
+        {
+          "@type": "HealthTopicContent",
+          "url": "https://api.service.nhs.uk/nhs-website-content/medicines/acrivastine/#pregnancy-and-breastfeeding",
+          "headline": "Pregnancy and breastfeeding",
+          "description": "Acrivastine is not usually recommended during pregnancy or when breastfeeding. Check with a pharmacist or doctor before taking it."
+        },
+        {
+          "@type": "HealthTopicContent",
+          "url": "https://api.service.nhs.uk/nhs-website-content/medicines/acrivastine/#interactions",
+          "headline": "Cautions with other medicines",
+          "description": "Taking acrivastine with other medicines, herbal remedies, vitamins or supplements can cause problems. Check with a pharmacist or doctor."
+        }
+      ]
+    }
+  },
+  {
+    "Zopiclone": {
+      "info": [
+        {
+          "@type": "HealthTopicContent",
+          "url": "https://api.service.nhs.uk/nhs-website-content/medicines/zopiclone/about-zopiclone/#overview",
+          "description": "Zopiclone is a sleeping pill you can get on prescription. It's used for short-term treatment of severe insomnia.",
+          "headline": ""
+        },
+        {
+          "@type": "HealthTopicContent",
+          "url": "https://api.service.nhs.uk/nhs-website-content/medicines/zopiclone/who-can-and-cannot-take-zopiclone/#who-its-for",
+          "description": "Most adults can take zopiclone. But always check before taking it, as it's not suitable for everyone.",
+          "headline": "Who can take zopiclone"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "url": "https://api.service.nhs.uk/nhs-website-content/medicines/zopiclone/how-and-when-to-take-zopiclone/#how-its-used-previously-dosage-and-administration",
+          "description": "Zopiclone comes as tablets that you take once a day before bed. Follow the instructions that come with your medicine.",
+          "headline": "Dosage and strength"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "url": "https://api.service.nhs.uk/nhs-website-content/medicines/zopiclone/side-effects-of-zopiclone/#side-effects",
+          "description": "Side effects of zopiclone include a bitter or metallic taste, a dry mouth and feeling tired. More serious side effects can happen in rare cases.",
+          "headline": "Common side effects"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "url": "https://api.service.nhs.uk/nhs-website-content/medicines/zopiclone/pregnancy-breastfeeding-and-fertility-while-taking-zopiclone/#pregnancy-and-breastfeeding",
+          "description": "Zopiclone is not usually recommended during pregnancy. It may be taken while breastfeeding. Always check with a pharmacist or doctor.",
+          "headline": "Zopiclone and pregnancy"
+        },
+        {
+          "@type": "HealthTopicContent",
+          "url": "https://api.service.nhs.uk/nhs-website-content/medicines/zopiclone/taking-zopiclone-with-other-medicines-and-herbal-supplements/#interactions",
+          "description": "Taking zopiclone with other medicines, herbal remedies, vitamins or supplements can cause problems. Check with a pharmacist or doctor.",
+          "headline": "Cautions with other medicines"
+        }
+      ],
+      "headline": "Zopiclone",
+      "url": "https://api.service.nhs.uk/nhs-website-content/medicines/zopiclone/"
+    }
+  }
+]
